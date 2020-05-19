@@ -35,7 +35,7 @@ Eduardo S. Marçal
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/eduardosmarcal)
+[LinkedIn](https://www.linkedin.com/in/eduardosmarcal)  
 [Twitter](https://www.twitter.com/eduardosmarcal)
 
 ## License
