@@ -31,7 +31,12 @@ In order to run this game, you will need to make sure that you have the followin
 
 ## Author
 
-[Eduardo Sorókin](https://www.twitter.com/EduardoSorokin)
+Eduardo S. Marçal
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/eduardosmarcal)
+[Twitter](https://www.twitter.com/eduardosmarcal)
 
 ## License
 
